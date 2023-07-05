@@ -1,6 +1,6 @@
 # Getting Started with 
 
-<a href= "https://github.com/facebook/create-react-app](https://willowy-fudge-339f59.netlify.app">see the app</a>
+<a href= "https://willowy-fudge-339f59.netlify.app/">see the app</a>
 
 ## Available Scripts
 
