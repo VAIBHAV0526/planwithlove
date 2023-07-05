@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with 
 
 This project was bootstrapped with [see the app]([https://github.com/facebook/create-react-app](https://willowy-fudge-339f59.netlify.app)).
 
